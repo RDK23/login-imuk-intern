@@ -1,6 +1,5 @@
 import React from 'react';
 import './page.css';
-import  Link from 'next/link'
 import { FaCircleUser,FaLock } from 'react-icons/fa6';
 
 export default function Login() {
