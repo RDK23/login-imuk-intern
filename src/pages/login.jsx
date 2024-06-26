@@ -1,5 +1,4 @@
 import React from 'react';
-import './login.css';
 import  Link from 'next/link'
 import { FaLock } from 'react-icons/fa6';
 
