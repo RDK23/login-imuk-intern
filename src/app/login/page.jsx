@@ -1,5 +1,5 @@
 import React from 'react';
-import '@/app/user interface/page.css';
+import '@/app/UI/page.css';
 import { FaCircleUser,FaLock } from 'react-icons/fa6';
 
 export default function Login() {

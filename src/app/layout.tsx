@@ -1,5 +1,5 @@
 import React from 'react';
-import "@/app/User interface/globals.css";
+import "@/app/UI/globals.css";
 import { Inter } from "next/font/google";
 
 import './login/page';
