@@ -25,7 +25,7 @@ export default function Login() {
                     </a>
 
                 <div className="register-link">
-                    <p>Dont have an account?<a href=" ">Sign up</a></p>
+                    <p>Dont have an account?<a href="/signup">Sign up</a></p>
                 </div>
             </form>
         </div>
